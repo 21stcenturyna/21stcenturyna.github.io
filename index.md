@@ -3,7 +3,7 @@ layout: home
 title: Numerical Analysis in the 21st Century: In honour of Nick Trefethen's retirement from Oxford
 ---
 
-## Numerical Analysis in the 21st Century: In honour of Nick Trefethen's retirement from Oxford
+## Numerical Analysis in the 21st Century
 
 We look forward to welcoming you to the conference <i>Numerical Analysis in the 21st Century</i>, in honour of Nick Trefethen's retirement from Oxford.
 

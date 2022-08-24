@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 21st Century Numerical Analysis
+title: Numerical Analysis in the 21st Century
 email: patrick.farrell@maths.ox.ac.uk
 url: https://21stcenturyna.github.io
 #description: >-

@@ -25,6 +25,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>
 - <a href="https://blog.espci.fr/laurette/">Laurette Tuckerman</a>
 - <a href="https://appliedmaths.sun.ac.za/~weideman/">André Weideman</a>
+- <a href="https://heatherw3521.github.io/">Heather Wilber</a>
 
 
 ## Registration

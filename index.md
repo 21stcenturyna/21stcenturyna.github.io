@@ -21,6 +21,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="http://appliedmaths.sun.ac.za/~nhale/">Nick Hale</a>
 - <a href="https://nhigham.com/">Nick Higham</a>
 - <a href="https://people.cs.kuleuven.be/~daan.huybrechs/">Daan Huybrechs</a>
+- <a href="https://faculty.washington.edu/rjl/">Randy LeVeque</a>
 - <a href="http://cecilepiret.weebly.com/">Cécile Piret</a>
 - <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>
 - <a href="https://blog.espci.fr/laurette/">Laurette Tuckerman</a>

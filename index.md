@@ -23,3 +23,12 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>
 - <a href="https://blog.espci.fr/laurette/">Laurette Tuckerman</a>
 - <a href="https://appliedmaths.sun.ac.za/~weideman/">André Weideman</a>
+
+
+## Registration
+
+Registration details will be posted at a later date.
+
+## Contact
+
+For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.

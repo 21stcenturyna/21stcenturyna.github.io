@@ -15,6 +15,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 ## Confirmed invited speakers (so far)
 
+- <a href="http://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>
 - <a href="https://fas.yale.edu/book/new-fas-faculty-2021-22/new-instructional-faculty-2021-22/science-and-school-engineering-and-2">Abinand Gopal</a>
 - <a href="http://appliedmaths.sun.ac.za/~nhale/">Nick Hale</a>
 - <a href="https://nhigham.com/">Nick Higham</a>

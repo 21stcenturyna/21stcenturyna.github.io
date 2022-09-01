@@ -15,6 +15,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 ## Confirmed invited speakers (so far)
 
+- <a href="https://www.professoren.tum.de/en/bornemann-folkmar">Folkmar Bornemann</a>
 - <a href="http://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>
 - <a href="https://tobydriscoll.net/">Toby Driscoll</a>
 - <a href="https://personal.math.vt.edu/embree/">Mark Embree</a>

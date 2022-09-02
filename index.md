@@ -36,7 +36,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 ## Registration
 
-Registration details will be posted at a later date.
+Registration details will be posted at a later date. In addition to plenary talks, the conference will have contributed talks by participants who would like to speak.
 
 ## Contact
 

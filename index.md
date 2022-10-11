@@ -43,3 +43,8 @@ Registration details will be posted at a later date. In addition to plenary talk
 ## Contact
 
 For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.
+
+## Sponsorship
+
+The conference has been generously sponsored by: <br/>
+  <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>

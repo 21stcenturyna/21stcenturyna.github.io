@@ -46,5 +46,5 @@ For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick
 
 ## Sponsorship
 
-The conference has been generously sponsored by: <br/>
+<p>The conference has been generously sponsored by: </p> <br/>
   <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>

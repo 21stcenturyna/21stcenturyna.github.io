@@ -40,6 +40,10 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 Registration details will be posted at a later date. In addition to plenary talks, the conference will have contributed talks by participants who would like to speak.
 
+## Travel support
+
+We will have bursaries to support the travel and accommodation costs for PhD students, kindly supported by the London Mathematical Society. We will advertise these in due course.
+
 ## Contact
 
 For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.
@@ -48,3 +52,4 @@ For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick
 
 <p>The conference has been generously sponsored by: </p> <br/>
   <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>
+  <img src="{{site.url}}/images/lms_logo.png" alt="LMS"/>

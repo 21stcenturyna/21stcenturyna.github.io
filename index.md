@@ -53,3 +53,5 @@ For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick
 <p>The conference has been generously sponsored by: </p> <br/>
   <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>
   <img src="{{site.url}}/images/lms_logo.png" alt="LMS"/>
+  <img src="{{site.url}}/images/ima_logo.png" alt="IMA"/>
+  <img src="{{site.url}}/images/qjmam_logo.png" alt="QJMAM"/>

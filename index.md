@@ -42,7 +42,7 @@ Registration details will be posted at a later date. In addition to plenary talk
 
 ## Travel support
 
-We will have bursaries to support the travel and accommodation costs for PhD students, kindly supported by the London Mathematical Society. We will advertise these in due course.
+We will have bursaries to support the travel and accommodation costs for PhD students, kindly supported by our sponsors. We will advertise these in due course.
 
 ## Contact
 
@@ -55,3 +55,5 @@ For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick
   <img src="{{site.url}}/images/lms_logo.png" alt="LMS" width="600px"/>
   <img src="{{site.url}}/images/ima_logo.png" alt="IMA" width="600px"/>
   <img src="{{site.url}}/images/qjmam_logo.png" alt="QJMAM" width="600px"/>
+  <img src="{{site.url}}/images/heilbronn_logo.png" alt="HIMR" width="600px"/>
+  <img src="{{site.url}}/images/epsrc_logo.png" alt="EPSRC" width="600px"/>

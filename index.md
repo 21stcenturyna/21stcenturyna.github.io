@@ -28,6 +28,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://nhigham.com/">Nick Higham</a>
 - <a href="https://people.cs.kuleuven.be/~daan.huybrechs/">Daan Huybrechs</a>
 - <a href="https://faculty.washington.edu/rjl/">Randy LeVeque</a>
+- <a href="https://blogs.mathworks.com/cleve/">Cleve Moler</a>
 - <a href="http://cecilepiret.weebly.com/">Cécile Piret</a>
 - <a href="https://www.stevenstrogatz.com/">Steven Strogatz</a>
 - <a href="https://www.kth.se/profile/akto">Anna-Karin Tornberg</a>
@@ -51,9 +52,10 @@ For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick
 ## Sponsorship
 
 <p>The conference has been generously sponsored by: </p> <br/>
+  <img src="{{site.url}}/images/mathworks_logo.png" alt="MathWorks" width="600px"/>
   <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>
-  <img src="{{site.url}}/images/lms_logo.png" alt="LMS" width="600px"/>
   <img src="{{site.url}}/images/ima_logo.png" alt="IMA" width="600px"/>
   <img src="{{site.url}}/images/qjmam_logo.png" alt="QJMAM" width="600px"/>
   <img src="{{site.url}}/images/heilbronn_logo.png" alt="HIMR" width="600px"/>
   <img src="{{site.url}}/images/epsrc_logo.png" alt="EPSRC" width="600px"/>
+  <img src="{{site.url}}/images/lms_logo.png" alt="LMS" width="600px"/>

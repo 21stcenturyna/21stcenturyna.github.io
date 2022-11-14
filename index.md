@@ -13,7 +13,7 @@ Dates: Aug 14-17, 2023 <br/>
 Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="https://people.maths.ox.ac.uk/nakatsukasa/">Yuji Nakatsukasa</a>, <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.
 </p>
 
-## Confirmed invited speakers (so far)
+## Invited speakers
 
 - <a href="https://www.professoren.tum.de/en/bornemann-folkmar">Folkmar Bornemann</a>
 - <a href="http://people.maths.ox.ac.uk/cartis/">Coralia Cartis</a>

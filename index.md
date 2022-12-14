@@ -45,6 +45,12 @@ Registration details will be posted at a later date. In addition to plenary talk
 
 We will have bursaries to support the travel and accommodation costs for PhD students, kindly supported by our sponsors. We will advertise these in due course.
 
+## Conference banquet
+
+The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, and five Nobel laureates as alumni. 
+
+<!-- The dress code for the banquet is lounge suit. !-->
+
 ## Contact
 
 For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.

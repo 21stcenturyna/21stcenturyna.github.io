@@ -28,6 +28,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://nhigham.com/">Nick Higham</a>
 - <a href="https://people.cs.kuleuven.be/~daan.huybrechs/">Daan Huybrechs</a>
 - <a href="https://faculty.washington.edu/rjl/">Randy LeVeque</a>
+- <a href="https://users.oden.utexas.edu/~pgm/">Gunnar Martinsson</a>
 - <a href="https://blogs.mathworks.com/cleve/">Cleve Moler</a>
 - <a href="http://cecilepiret.weebly.com/">Cécile Piret</a>
 - <a href="https://www.stevenstrogatz.com/">Steven Strogatz</a>

@@ -38,17 +38,30 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://heatherw3521.github.io/">Heather Wilber</a>
 
 
+## Important dates
+
+<p>28 February 2023: Application deadline for early-career travel support</p>
+<p>31 March 2023: Registration deadline for contributed talks</p>
+<p>14-17 August 2023: Conference dates</p>
+<p>15 August 2023: Banquet in Balliol College</p>
+
 ## Registration
 
 Registration details will be posted at a later date. In addition to plenary talks, the conference will have contributed talks by participants who would like to speak.
 
 ## Travel support
 
-We will have bursaries to support the travel and accommodation costs for PhD students, kindly supported by our sponsors. We will advertise these in due course.
+We have bursaries available to support the registration and travel costs for early-career researchers (MSc students, PhD students,
+and postdocs) that might not otherwise be able to attend. To apply for this,
+please email the three organisers with (a) a budget (b) a brief research
+statement (c) your talk abstract (if you would like to talk) (d) a letter of
+support from your supervisor, ideally as one PDF.
+
+The deadline for the early-career bursaries is 28 February 2023. We will notify applicants in early March, in good time for the registration deadline.
 
 ## Conference banquet
 
-The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, and five Nobel laureates as alumni. 
+The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, four prime ministers, and five Nobel laureates as alumni. 
 The dress code for the banquet will be jacket or suit and tie.
 
 ## Contact

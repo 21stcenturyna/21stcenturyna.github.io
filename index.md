@@ -49,8 +49,7 @@ We will have bursaries to support the travel and accommodation costs for PhD stu
 ## Conference banquet
 
 The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, and five Nobel laureates as alumni. 
-
-<!-- The dress code for the banquet is lounge suit. !-->
+The dress code for the banquet will be jacket or suit and tie.
 
 ## Contact
 

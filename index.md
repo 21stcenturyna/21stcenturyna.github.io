@@ -65,7 +65,7 @@ The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxf
 The dress code for the banquet will be jacket or suit and tie.
 
 <figure>
-<img src="{{site.url}}/images/balliolhall.jpg" alt="Balliol College Hall" width="600px"/>
+<img src="{{site.url}}/images/balliolhall.jpg" width="800px"/>
 <figcaption>The Balliol College dining hall. <br/>Photo by <a href="https://en.wikipedia.org/wiki/File:Balliol_College_Dining_Hall,_Oxford_-_Diliff.jpg">David Iliff</a>. License: CC BY-SA 3.0.</figcaption>
 </figure>
 

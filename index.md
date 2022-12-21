@@ -51,7 +51,7 @@ Registration details will be posted at a later date. In addition to plenary talk
 
 ## Travel support
 
-We have bursaries available to support the registration and travel costs for early-career researchers (MSc students, PhD students,
+We have bursaries available to support the registration, accommodation, and travel costs for early-career researchers (MSc students, PhD students,
 and postdocs) that might not otherwise be able to attend. To apply for this,
 please email the three organisers with (a) a budget (b) a brief research
 statement (c) your talk abstract (if you would like to talk) (d) a letter of
@@ -63,6 +63,11 @@ The deadline for the early-career bursaries is 28 February 2023. We will notify 
 
 The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, four prime ministers, and five Nobel laureates as alumni. 
 The dress code for the banquet will be jacket or suit and tie.
+
+<figure>
+<img src="{{site.url}}/images/balliolhall.jpg" alt="Balliol College Hall" width="600px"/>
+<figcaption>The Balliol College dining hall. <br/>Photo by <a href="https://en.wikipedia.org/wiki/File:Balliol_College_Dining_Hall,_Oxford_-_Diliff.jpg">David Iliff</a>. License: CC BY-SA 3.0.</figcaption>
+</figure>
 
 ## Contact
 

@@ -93,6 +93,8 @@ The banquet will take place in the dining hall of <a href="https://www.balliol.o
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo4O7aa_GdkgRpKSVKtl8GS4&key=AIzaSyA0A5Bgx5VTVTu1JIFZnE8If79tOS8WDDw"></iframe>
 
+<p>&nbsp;</p>
+
 ## Contact
 
 For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.

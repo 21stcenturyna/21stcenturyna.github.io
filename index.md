@@ -80,7 +80,7 @@ The dress code for the banquet will be jacket or suit and tie.
 
 ## Locations
 
-The conference will take place in the <a href="https://www.bsg.ox.ac.uk/">Blavatnik School of Government</a>.
+The conference will take place in the <a href="https://www.bsg.ox.ac.uk/">Blavatnik School of Government</a>, 120 Walton Street, Oxford OX2 6GG.
 
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHemdM6fGdkgR96Z0kEyiYvs&key=AIzaSyA0A5Bgx5VTVTu1JIFZnE8If79tOS8WDDw"></iframe>
@@ -88,7 +88,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHemdM6fGdkgR96Z0k
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-The banquet will take place in the dining hall of <a href="https://www.balliol.ox.ac.uk/">Balliol College</a>.
+The banquet will take place in the dining hall of <a href="https://www.balliol.ox.ac.uk/">Balliol College</a>, Broad Street, Oxford OX1 3BJ.
 
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo4O7aa_GdkgRpKSVKtl8GS4&key=AIzaSyA0A5Bgx5VTVTu1JIFZnE8If79tOS8WDDw"></iframe>

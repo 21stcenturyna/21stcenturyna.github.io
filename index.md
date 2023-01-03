@@ -85,6 +85,9 @@ The conference will take place in the <a href="https://www.bsg.ox.ac.uk/">Blavat
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJHemdM6fGdkgR96Z0kEyiYvs&key=AIzaSyA0A5Bgx5VTVTu1JIFZnE8If79tOS8WDDw"></iframe>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 The banquet will take place in the dining hall of <a href="https://www.balliol.ox.ac.uk/">Balliol College</a>.
 
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen

@@ -47,13 +47,13 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 ## Registration
 
-Registration is <bf>now open!</bf>. <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/numerical-analysis-in-the-21st-century">To register, please visit our online store</a>.
+Registration is <strong>now open!</strong>! <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/numerical-analysis-in-the-21st-century">To register, please visit our online store</a>.
 
 The registration fee is £190 for a four-day conference, and includes the banquet in Balliol College.
 
 ## Abstract submission
 
-Abstract submission is <bf>now open!</bf>. <a href="https://forms.gle/yeDEDtBsfAaQd7iK9">To submit your abstract, please fill in this form.</a>
+Abstract submission is <strong>now open</strong>! <a href="https://forms.gle/yeDEDtBsfAaQd7iK9">To submit your abstract, please fill in this form.</a>
 
 ## Travel support
 

@@ -47,7 +47,13 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 ## Registration
 
-Registration details will be posted at a later date. In addition to plenary talks, the conference will have contributed talks by participants who would like to speak.
+Registration is <bf>now open!</bf>. <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/numerical-analysis-in-the-21st-century">To register, please visit our online store</a>.
+
+The registration fee is £190 for a four-day conference, and includes the banquet in Balliol College.
+
+## Abstract submission
+
+Abstract submission is <bf>now open!</bf>. <a href="https://forms.gle/yeDEDtBsfAaQd7iK9">To submit your abstract, please fill in this form.</a>
 
 ## Travel support
 
@@ -61,7 +67,7 @@ The deadline for the early-career bursaries is 28 February 2023. We will notify 
 
 ## Conference banquet
 
-The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, four prime ministers, and five Nobel laureates as alumni. 
+The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, four prime ministers, and five Nobel laureates as alumni.
 The dress code for the banquet will be jacket or suit and tie.
 
 <figure>

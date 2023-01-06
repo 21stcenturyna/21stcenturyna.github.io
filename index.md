@@ -62,7 +62,7 @@ and postdocs) that might not otherwise be able to attend. To apply for this,
 please email the three organisers with
  - a budget,
  - a brief research statement,
- - your talk abstract (if you would like to talk),
+ - your talk abstract (if you would like to give a talk),
  - a letter of support from your supervisor,
 ideally as one PDF.
 

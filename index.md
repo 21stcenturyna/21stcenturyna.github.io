@@ -95,6 +95,10 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo4O7aa_GdkgRpKSVK
 
 <p>&nbsp;</p>
 
+## Getting to Oxford
+
+Oxford is conveniently located about an hour by train from London. For international attendees, the most convenient way to Oxford is to fly to London Heathrow Airport and to take the <a href="https://www.theairlineoxford.co.uk/oxford-to-heathrow-bus/">airline bus service</a>. For more details, and other airports ordered by convenience, see <a href="https://people.maths.ox.ac.uk/gilesm/travel.html">Mike Giles' page on travelling to Oxford</a>.
+
 ## Contact
 
 For information, contact <a href="mailto:patrick.farrell@maths.ox.ac.uk">Patrick Farrell</a>, <a href="mailto:yuji.nakatsukasa@maths.ox.ac.uk">Yuji Nakatsukasa</a>, and <a href="mailto:townsend@cornell.edu">Alex Townsend</a>.

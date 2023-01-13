@@ -95,6 +95,10 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJo4O7aa_GdkgRpKSVK
 
 <p>&nbsp;</p>
 
+## Accommodation
+
+We have reserved rooms in several Oxford colleges for use by conference attendees at reasonable rates. This supply is limited and we recommend booking early. For details on how to book these, please contact Yuji Nakatsukasa.
+
 ## Getting to Oxford
 
 Oxford is conveniently located about an hour by train from London. For international attendees, the most convenient way to Oxford is to fly to London Heathrow Airport and to take the <a href="https://www.theairlineoxford.co.uk/oxford-to-heathrow-bus/">airline bus service</a>. For more details, and other airports ordered by convenience, see <a href="https://people.maths.ox.ac.uk/gilesm/travel.html">Mike Giles' page on travelling to Oxford</a>.

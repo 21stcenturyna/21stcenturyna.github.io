@@ -57,13 +57,14 @@ Abstract submission is <strong>now open</strong>! <a href="https://forms.gle/yeD
 
 ## Travel support
 
-We have bursaries available to support the registration, accommodation, and travel costs for early-career researchers (MSc students, PhD students,
-and postdocs) that might not otherwise be able to attend. To apply for this,
+We have bursaries available to support the registration, accommodation, and travel costs for attendees who would otherwise struggle to come for financial reasons,
+such as early-career researchers (MSc students, PhD students,
+and postdocs) or those working in countries with a less developed research infrastructure. To apply for this,
 please email the three organisers with
  - a budget,
  - a brief research statement,
  - your talk abstract (if you would like to give a talk),
- - a letter of support from your supervisor,
+ - a letter of support from your supervisor (for early-career researchers),
 ideally as one PDF.
 
 The deadline for the early-career bursaries is 28 February 2023. We will notify applicants in early March, in good time for the registration deadline.

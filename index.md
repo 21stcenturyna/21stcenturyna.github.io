@@ -41,7 +41,7 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 ## Important dates
 
 <p>31 March 2023 (extended, previously 28 February 2023): Application deadline for early-career travel support</p>
-<p>31 March 2023: Registration deadline for contributed talks</p>
+<p>30 April 2023: Registration deadline for contributed talks (extended, previously 31 March)</p>
 <p>14-17 August 2023: Conference dates</p>
 <p>15 August 2023: Banquet in Balliol College</p>
 

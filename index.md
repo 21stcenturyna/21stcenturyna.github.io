@@ -76,7 +76,7 @@ The deadline for the early-career bursaries is 28 February 2023. We will notify 
 ## Conference banquet
 
 The conference banquet will take place on Tuesday Aug 15 in Balliol College, Oxford. Balliol was founded in 1263 and counts Adam Smith, Aldous Huxley, four prime ministers, and five Nobel laureates as alumni.
-The dress code for the banquet will be jacket or suit and tie.
+The dress code for the banquet will be business formal (jacket or suit and tie for men).
 
 <figure>
 <img src="{{site.url}}/images/balliolhall.jpg" width="800px"/>

@@ -57,7 +57,11 @@ The registration fee is £190 for a four-day conference, and includes the banque
 
 ## Abstract submission
 
+Abstract submission is now closed.
+
+<!--
 Abstract submission is <strong>now open</strong>! <a href="https://forms.gle/yeDEDtBsfAaQd7iK9">To submit your abstract, please fill in this form.</a>
+-->
 
 ## Travel support
 
@@ -71,7 +75,7 @@ please email the three organisers with
  - a letter of support from your supervisor (for early-career researchers),
 ideally as one PDF.
 
-The deadline for the early-career bursaries is 28 February 2023. We will notify applicants in early March, in good time for the registration deadline.
+The deadline for the early-career bursaries was 28 February 2023.
 
 ## Conference banquet
 

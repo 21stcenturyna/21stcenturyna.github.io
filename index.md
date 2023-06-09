@@ -45,9 +45,10 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 <p>14-17 August 2023: Conference dates</p>
 <p>15 August 2023: Banquet in Balliol College</p>
 
-## Timing
+## Conference program
 
-The conference will begin on the morning of 14 August and end at lunchtime on 17 August.
+The conference will begin on the morning of 14 August and end at lunchtime on 17 August. The full conference program can be found here: 
+<p<a href="TrefethenRetirementConference.pdf">>Open Conference Program </a>.</p>
 
 ## Registration
 

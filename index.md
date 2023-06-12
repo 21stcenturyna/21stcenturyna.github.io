@@ -50,6 +50,12 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 The conference will begin on the morning of 14 August and end at lunchtime on 17 August. The full conference program can be found here: 
 <a href="TrefethenRetirementConference.pdf">Open Full Conference Program</a>.
 
+### Monday, 14 August 
+
+<object type="application/pdf" data="TrefethenRetirementConference.pdf", width="995" height="841"></object>
+<a href="TrefethenRetirementConference.pdf#page=9">Monday schedule</a>
+
+
 ## Registration
 
 Registration is <strong>now open</strong>! <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/numerical-analysis-in-the-21st-century">To register, please visit our online store</a>.

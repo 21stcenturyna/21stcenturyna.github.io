@@ -55,7 +55,7 @@ Registration is <strong>now open</strong>! <a href="https://www.oxforduniversity
 
 The registration fee is £190 for a four-day conference, and includes the banquet in Balliol College. Additional tickets for the banquet may be purchased for £50.
 
-Registration will close in early August.
+Registration will close in late July.
 
 ## Abstract submission
 

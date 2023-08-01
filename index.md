@@ -51,21 +51,17 @@ The conference will begin on the morning of 14 August and end at lunchtime on 17
 
 ## Registration
 
-Registration is <strong>now open</strong>! <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/numerical-analysis-in-the-21st-century">To register, please visit our online store</a>.
+Registration closed on July 31.
 
-The registration fee is £190 for a four-day conference, and includes the banquet in Balliol College. Additional tickets for the banquet may be purchased for £50.
-
-Registration will close in late July.
+The registration fee was £190 for the four-day conference, and included the banquet in Balliol College. Tickets for the banquet alone cost £50.
 
 ## Abstract submission
 
 Abstract submission is now closed.
 
-<!--
-Abstract submission is <strong>now open</strong>! <a href="https://forms.gle/yeDEDtBsfAaQd7iK9">To submit your abstract, please fill in this form.</a>
--->
-
 ## Travel support
+
+The deadline for travel support was 28 February 2023.
 
 We have bursaries available to support the registration, accommodation, and travel costs for attendees who would otherwise struggle to come for financial reasons,
 such as early-career researchers (MSc students, PhD students,
@@ -76,8 +72,6 @@ please email the three organisers with
  - your talk abstract (if you would like to give a talk),
  - a letter of support from your supervisor (for early-career researchers),
 ideally as one PDF.
-
-The deadline for the early-career bursaries was 28 February 2023.
 
 ## Conference banquet
 

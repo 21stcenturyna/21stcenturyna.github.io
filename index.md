@@ -41,11 +41,11 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 
 The conference will begin on the morning of 14 August and end at lunchtime on 17 August. <a href="TrefethenRetirementConference.pdf">The full conference program can be found here</a>.
 
-Here's a quick way to view the schedule for the day: 
+Here's a quick way to view the schedule for Monday: 
 
-<a href="Monday1.pdf">Monday's Plenary speakers</a>
+<a href="Monday1.pdf">Monday's plenary talks</a>
 
-<a href="Monday2.pdf">Monday's minisymposia</a>
+<a href="Monday2.pdf">Monday's minisymposia at 3:45-5:30pm</a>
 
 ## Important dates
 

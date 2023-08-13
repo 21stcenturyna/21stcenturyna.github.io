@@ -37,6 +37,11 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 - <a href="https://appliedmaths.sun.ac.za/~weideman/">André Weideman</a>
 - <a href="https://heatherw3521.github.io/">Heather Wilber</a>
 
+## Conference program
+
+The conference will begin on the morning of 14 August and end at lunchtime on 17 August. <a href="TrefethenRetirementConference.pdf">The full conference program can be found here</a>.
+
+Here's a quick way to view the schedule for each day: <a href="Monday.pdf">Monday</a>, <a href="Tuesday.pdf">Tuesday</a>, <a href="Wednesday.pdf">Wednesday</a>, and <a href="Thursday.pdf">Thursday</a>
 
 ## Important dates
 
@@ -44,12 +49,6 @@ Organised by: <a href="https://pefarrell.org">Patrick Farrell</a>, <a href="http
 <p>30 April 2023: Registration deadline for contributed talks (extended, previously 31 March)</p>
 <p>14-17 August 2023: Conference dates</p>
 <p>15 August 2023: Banquet in Balliol College</p>
-
-## Conference program
-
-The conference will begin on the morning of 14 August and end at lunchtime on 17 August. <a href="TrefethenRetirementConference.pdf">The full conference program can be found here</a>.
-
-Here's a quick way to view the schedule for each day: <a href="Monday.pdf">Monday</a>, <a href="Tuesday.pdf">Tuesday</a>, <a href="Wednesday.pdf">Wednesday</a>, and <a href="Thursday.pdf">Thursday</a>
 
 ## Registration
 

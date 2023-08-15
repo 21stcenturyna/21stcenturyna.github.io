@@ -43,9 +43,9 @@ The conference will begin on the morning of 14 August and end at lunchtime on 17
 
 Here's a quick way to view the schedule for Monday: 
 
-<a href="Monday1.pdf">Monday's plenary talks</a>
+<a href="Tuesday1.pdf">Tuesday's plenary talks</a>
 
-<a href="Monday2.pdf">Monday's minisymposia at 3:45-5:30pm</a>
+<a href="Tuesday2.pdf">Tuesday's minisymposia at 3:45-5:30pm</a>
 
 ## Important dates
 
